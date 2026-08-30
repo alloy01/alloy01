@@ -50,6 +50,7 @@ TypeScript · React · Node.js · Backend Engineering · Testing · DSA
 
 <table>
 <tr>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></td>
@@ -120,40 +121,6 @@ TypeScript · React · Node.js · Backend Engineering · Testing · DSA
 
 <p align="center">
   <sub>Competitive programming · Data structures · Algorithms</sub>
-</p>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-
-<td style="border: 1px solid #8B949E; padding: 8px;">
-
-<img src="https://github-readme-stats.shion.dev/api?username=alloy01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=false&count_private=false" height="170"/>
-
-</td>
-
-<td style="border: 1px solid #8B949E; padding: 8px;">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alloy01&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&layout=compact&include_all_commits=false&count_private=false" height="170"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-### Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00C853/alloy01" alt="GitHub contribution graph" width="100%"/>
 </p>
 
 ---
