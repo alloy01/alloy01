@@ -52,6 +52,8 @@ TypeScript · React · Node.js · Backend Engineering · Testing · DSA
 <tr>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></td>
 </tr>
