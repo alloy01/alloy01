@@ -2,11 +2,11 @@
 
 # Ajeet ( alloy01 )
 
-**Student developer building full-stack systems and sharpening my fundamentals.**
+**Developer exploring different areas of software engineering, from building applications to understanding the systems behind them.**
 
-TypeScript · React · Node.js · Backend Engineering · Testing · DSA
+TypeScript · React · Node.js · Testing · Docker · DSA · Linux
 
-*I build things, break them, and figure out why they broke.*
+*Build it. Break it. Understand it. Improve it.*
 
 </div>
 
