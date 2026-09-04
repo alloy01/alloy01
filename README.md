@@ -23,6 +23,7 @@ TypeScript · React · Node.js · Testing · Docker · DSA · Linux
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" /></td>
 </tr>
 </table>
 
