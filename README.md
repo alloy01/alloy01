@@ -4,7 +4,7 @@
 
 **Developer exploring different areas of software engineering, from building applications to understanding the systems behind them.**
 
-TypeScript · React · Node.js · Testing · Docker · DSA · Linux
+TypeScript · React · Node.js · Testing · Docker · DSA · Linux · Python
 
 *Build it. Break it. Understand it. Improve it.*
 
