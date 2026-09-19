@@ -4,7 +4,7 @@
 
 **Developer exploring different areas of software engineering, from building applications to understanding the systems behind them.**
 
-TypeScript · React · Node.js · Testing · Docker · DSA · Linux · Python
+TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux · Python
 
 *Build it. Break it. Understand it. Improve it.*
 
@@ -42,6 +42,7 @@ TypeScript · React · Node.js · Testing · Docker · DSA · Linux · Python
 <tr>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" /></td>
 <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" /></td>
 </tr>
 </table>
