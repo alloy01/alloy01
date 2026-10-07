@@ -74,8 +74,8 @@ TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux �
 
 <td style="border: 1px solid #8B949E; padding: 8px;">
 
-<a href="https://github.com/alloy01/nodejs-testing">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=alloy01&repo=nodejs-testing&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/alloy01/dwarf">
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=alloy01&repo=dwarf&theme=github_dark&hide_border=true&bg_color=0D1117" />
 </a>
 
 </td>
