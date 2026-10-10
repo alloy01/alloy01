@@ -1,10 +1,12 @@
 <div align="center">
 
-# Ajeet ( alloy01 )
+# Ajeet Singh · `alloy01`
 
-**Developer exploring different areas of software engineering, from building applications to understanding the systems behind them.**
+**I build things to understand how they work.**
 
-TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux · Python
+From full-stack applications to algorithms and computational simulations, I'm interested in building software, breaking down complex problems, and understanding the systems behind them.
+
+`TypeScript` · `React` · `Node.js` · `Python` · `Linux` · `DSA`
 
 *Build it. Break it. Understand it. Improve it.*
 
@@ -12,7 +14,16 @@ TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux �
 
 ---
 
-### Stack
+### `01 / What I'm Exploring`
+
+* **Software Engineering** — Building practical applications, APIs, and developer tools.
+* **Problem Solving** — Competitive programming, data structures, and algorithms.
+* **Computational Physics** — Using Python, NumPy, and Matplotlib to model motion, explore numerical methods, and turn equations into simulations.
+* **Systems** — Exploring Linux, networking, testing, and the infrastructure behind reliable software.
+
+---
+
+### `02 / Tech Stack`
 
 <div align="center">
 
@@ -38,7 +49,15 @@ TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux �
 
 **Backend**
 
-<table> <tr> <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /></td> <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" /></td> <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" /></td> <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" /></td> <td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" /></td> </tr> </table>
+<table>
+<tr>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" /></td>
+<td style="border: 1px solid #8B949E; padding: 4px;"><img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" /></td>
+</tr>
+</table>
 
 **Tools**
 
@@ -57,29 +76,22 @@ TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux �
 
 ---
 
-### Featured Projects
+### `03 / Selected Projects`
 
 <div align="center">
 
 <table>
 <tr>
-
 <td style="border: 1px solid #8B949E; padding: 8px;">
-
 <a href="https://github.com/alloy01/Veltro">
 <img src="https://github-readme-stats.shion.dev/api/pin/?username=alloy01&repo=Veltro&theme=github_dark&hide_border=true&bg_color=0D1117" />
 </a>
-
 </td>
-
 <td style="border: 1px solid #8B949E; padding: 8px;">
-
 <a href="https://github.com/alloy01/dwarf">
 <img src="https://github-readme-stats.shion.dev/api/pin/?username=alloy01&repo=dwarf&theme=github_dark&hide_border=true&bg_color=0D1117" />
 </a>
-
 </td>
-
 </tr>
 </table>
 
@@ -87,58 +99,36 @@ TypeScript · React · Node.js · FastAPI · Testing · Docker · DSA · Linux �
 
 ---
 
-### Problem Solving
+### `04 / Problem Solving`
 
 <div align="center">
-
-<table>
-<tr>
-
-<td style="border: 1px solid #8B949E; padding: 6px;">
 
 <a href="https://codeforces.com/profile/alloy01">
 <img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
 </a>
-
-</td>
-
-<td style="border: 1px solid #8B949E; padding: 6px;">
-
+&nbsp;
 <a href="https://leetcode.com/u/alloy01/">
 <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
-</td>
+<br/>
 
-</tr>
-</table>
+<sub>Competitive programming · Data structures · Algorithms</sub>
 
 </div>
 
-<p align="center">
-  <sub>Competitive programming · Data structures · Algorithms</sub>
-</p>
-
 ---
 
-### Contact
+### `05 / Connect`
 
 <div align="center">
-
-<table>
-<tr>
-<td style="border: 1px solid #8B949E; padding: 6px;">
 
 <a href="mailto:ajeettsingh51@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<br>
-
-**Build · Break · Learn · Repeat**
+**Curiosity → Code → Experiments → Better systems**
 
 </div>
