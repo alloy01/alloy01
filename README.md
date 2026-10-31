@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ajeet Singh · `alloy01`
+# Ajeet Pratap Singh · `alloy01`
 
 **I build things to understand how they work.**
 
